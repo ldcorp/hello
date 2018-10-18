@@ -3,7 +3,7 @@
 <title>Hello World! V 1.0.0</title>
 </head>
 <body>
-	<h1>Hello World! Shishir Bhandari is a developer as well. Thank you. </h1>
+	<h1>Hello World! Shishir is a developer as well. Thank you. </h1>
 	<h2> This is CI/CD demo </h2>
 	<p>
 Thank you
