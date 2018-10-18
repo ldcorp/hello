@@ -10,6 +10,6 @@ Thank you
 		It is now
 	<strong>	<%= new java.util.Date() %> </strong> </p>
 	<p>
-		You are coming from 
+		Your public IP is: 
 		<%= request.getRemoteAddr()  %></p>
 </body>
