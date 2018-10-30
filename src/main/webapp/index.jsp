@@ -3,7 +3,7 @@
 <title>Hello World! you know me</title>
 </head>
 <body>
-	<h1>Hello World! Shishir Bhandari and you know me. Thank you. </h1>
+	<h1>Hello World! Shishir Bhandari and Judge Parajuli. Thank you. </h1>
 	<h2> This a is CI/CD demo </h2>
 	<p>
 Thank you
